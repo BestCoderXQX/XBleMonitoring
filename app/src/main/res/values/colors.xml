@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorblack">#3f4752</color>
+
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+    <!--用于背景色-->
+    <color name="standard_bg">#ebf4ff</color>
+    <!--用于分割线、标签描边-->
+    <color name="standard_line">#f3f3f3</color>
+    <color name="standard_red">#ea4560</color>
+    <!--辅助色 用于强调和突出的原色，如 康复指导时间，医生评定等级 -->
+    <color name="standard_yellow">#ffda00</color>
+    <!--辅助色 用于按钮 如在线-->
+    <color name="standard_green">#53cdaf</color>
+
+    <color name="menu_unselect_bg">#3f4752</color>
+    <color name="menu_selected_bg">#2d343e</color>
+    <color name="menu_unselect_txt">#7b8390</color>
+    <color name="standard_blue">#4ccff3</color>
+</resources>
